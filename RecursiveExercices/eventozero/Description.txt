@@ -1,0 +1,2 @@
+Write a method called evenToZero that takes as parameter an integer ‘limit’. The method prints on the
+screen all the even numbers from ‘limit’ to 0 (inclusive).
